@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+@import url("normalize.css"); /* ------- Reset all CSS Styles */
+
+/********************
+共通
+******************************/
+* {
+  box-sizing: border-box;
+}
+/* https://developer.mozilla.org/ja/docs/Web/CSS/box-sizing */
+
+body {
+  font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium",
+    "游ゴシック", "Yu Gothic", sans-serif;
+}
+
+/* 共通　大枠 */
+
+/* 共通　ヘッダー・メインナビゲーション */
+
+/* 共通　フッター */
+
+/********************
+index.html 
+**************************************************/
+/* index.html　メインビジュアル */
+
+/* index.html イントロテキスト部分 */
+
+/* index.html バナーエリア */
+
+/********************
+その他のページ
+**************************************************/
